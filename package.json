@@ -1,5 +1,6 @@
 {
   "name": "bank_app",
+  "homepage": "https://flourishman.github.io/designapp/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
